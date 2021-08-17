@@ -1,4 +1,4 @@
-### For georgian scroll down👇
+
 
 ### Hi there, I'm Saba from Georgia(country) - AKA [ATR1N1TY][website] 👋
 
