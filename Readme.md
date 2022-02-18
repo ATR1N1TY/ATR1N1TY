@@ -4,11 +4,11 @@
 
 [![Website](https://img.shields.io/website?label=github.com/atr1n1ty&style=for-the-badge&url=https%3A%2F%2FATRINITY)](https://github.com/ATR1N1TY)
 
-## I'm a Frontend developer, Student and Science/Philosophy lover!!
+## I'm a Frontend Developer, who loves learning about Philosophy, Psychology, future and what can we do to improve them!
 
-- 🔮 2021-2022 Goals: Find a job and make more commits
-- 📚 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to talk about future
+- 🔮 2022 Goals: Become a developer who makes stuff PIXEL PERFECT! 
+- 📚 I’m currently learning Redux, Next.js, Typescript,  Data Structures & Algorithms.
+- ⚡ Currently I'm building an full Ecommerce application with technologies mentioned above.
 
 ### Connect with me:
 
