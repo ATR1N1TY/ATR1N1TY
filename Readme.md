@@ -1,19 +1,9 @@
 
+## I'm a Frontend Developer, who loves learning about Philosophy, Psychology, Future and what can we do to improve them!
 
-### Hi there, I'm Saba from Georgia(country) - AKA [ATR1N1TY][website] 👋
-
-[![Website](https://img.shields.io/website?label=github.com/atr1n1ty&style=for-the-badge&url=https%3A%2F%2FATRINITY)](https://github.com/ATR1N1TY)
-
-## I'm a Frontend Developer, who loves learning about Philosophy, Psychology, future and what can we do to improve them!
-
-- 🔮 2022 Goals: Become a developer who makes stuff PIXEL PERFECT! 
-- 📚 I’m currently learning Redux, Next.js, Typescript,  Data Structures & Algorithms.
-- ⚡ Currently I'm building an full Ecommerce application with technologies mentioned above.
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+* 🔮 2022 Goals: Become a developer who makes stuff PIXEL PERFECT! 
+* 📚 I’m currently learning Redux, Next.js, Typescript, Data Structures & Algorithms.
+* ⚡ Currently I'm building an full Ecommerce App.
 
 <br />
 
@@ -32,8 +22,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-[youtube]: https://youtube.com/indiespace
-[facebook]: https://www.facebook.com/profile.php?id=100013984923007
-[website]: https://github.com/ATR1N1TY
