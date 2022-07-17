@@ -2,10 +2,10 @@
 ## I'm a Frontend Developer, who loves learning about Philosophy, Psychology, Future and what can we do to improve them!
 
 * 🔮 2022 Goals: Become a developer who makes stuff PIXEL PERFECT! 
-* 📚 I’m currently learning Redux, Next.js, Typescript, Data Structures & Algorithms.
-* ⚡ Currently I'm building an full Ecommerce App.
+* 📚 I’m currently learning Three.js, Dijkstra's algorithm.
+* ⚡ Currently I'm building Personal Portfolio Website.
 
-Form was last updated on: Thursday, June 16, 2022
+Form was last updated on: Sunday, July 17, 2022
 
 <br />
 
